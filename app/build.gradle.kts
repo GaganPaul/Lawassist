@@ -90,5 +90,5 @@ dependencies {
 
     // Paging (If needed for large Room queries)
     implementation("androidx.paging:paging-runtime:3.2.1")
+    implementation("androidx.compose.material:material-icons-extended:1.5.4")
 }
-
